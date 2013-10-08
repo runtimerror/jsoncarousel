@@ -1,0 +1,23 @@
+{ "portfolio" : [
+	{
+		"title"			:	"Advertising Agreement",
+		"filename"		:	"adag.jpg",
+		"company"		:	"Point A Media",
+		"type"			:	"print",
+		"description"	:	"Print collateral designed for the Nacogdoches Chamber of Commerce"
+	},
+	{
+		"title"			:	"Blueberry Festival Poster",
+		"filename"		:	"blfs.jpg",
+		"company"		:	"Point A Media",
+		"type"			:	"print",
+		"description"	:	"Poster and logo for the 2012 Texas Blueberry Festival"
+	},
+	{
+		"title"			:	"Anderson Medical Group Site",
+		"filename"		:	"amg.jpg",
+		"company"		:	"Anderson Hospital",
+		"type"			:	"website",
+		"description"	:	"Anderson Medical Group website, created for Anderson Hospital in Maryville."
+	}
+] }

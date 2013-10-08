@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>JSON Carousel</title>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js" type="text/javascript"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/jquery.cycle/3.03/jquery.cycle.all.min.js" type="text/javascript"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/mustache.js/0.7.2/mustache.min.js" type="text/javascript"></script>
+	<link rel="stylesheet" href="style.css" />
+	<link href='http://fonts.googleapis.com/css?family=Lato|Arvo:700' rel='stylesheet' type='text/css'>
+</head>
+<body>
+
+<div id="portfoliobox">
+	<a href=#" id="prevbtn">&laquo;</a>
+	<a href=#" id="nextbtn">&raquo;</a>
+	<div id="carousel"> div"></div>
+</div>
+
+<script id="portfoliotpl" type="text/template">
+	{{#portfolio}}
+		<div class="portfolio">
+			<img src="imgs/{{filename}}" alt="Photo of {{title}}" />
+			<h3>{{title}}</h3>
+			<h4>{{company}}</h4>
+			<p>{{description}}</p>
+		</div>
+	{{/portfolio}}
+</script>
+
+<script type="text/javascript">
+	$(function(){
+		$.getJSON('data.json', function(data) {
+			var template = $('#portfoliotpl').html();
+			var html = Mustache.to_html(template, data);
+			$('#carousel').html(html);
+			
+			$('#carousel').cycle({
+				fx: 'fade',
+				pause: 1,
+				next: '#nextbtn',
+				prev: '#prevbtn',
+				speed: 500,
+				timeout: 10000
+			});
+			
+		});//get JSON
+	});//end function
+</script>
+
+</body>
+</html>
