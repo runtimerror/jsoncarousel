@@ -1,0 +1,569 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border",
+				"border-left"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"packages",
+				"packages"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"border-",
+				"border-top"
+			],
+			[
+				"font-stack",
+				"font-stack-sans"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"th",
+				"thead	Tag"
+			],
+			[
+				"padding-",
+				"padding-top"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"block",
+				"block"
+			],
+			[
+				"style",
+				"list-style"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"import",
+				"important"
+			],
+			[
+				"o",
+				"ovx	overflow-x: ${1:hidden};"
+			],
+			[
+				"bg",
+				"bgcolor"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"header-lin",
+				"header-links-loggedin"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"first",
+				"first-child"
+			],
+			[
+				"tex",
+				"text-transform"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install Pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/jdauer/AppData/Local/Temp/fz3temp-2/wp-config.php",
+		"/C/Users/jdauer/AppData/Local/Temp/fz3temp-2/.htaccess",
+		"/C/Users/jdauer/AppData/Local/Temp/fz3temp-2/global.css",
+		"/C/Users/jdauer/AppData/Local/Temp/fz3temp-2/blocksocial.tpl",
+		"/C/xampp/htdocs/vgg/index.php",
+		"/C/xampp/htdocs/vgg/config/settings.inc.php",
+		"/C/Users/jdauer/AppData/Local/Temp/fz3temp-2/main.css",
+		"/C/xampp/htdocs/vgg/config/defines.inc.php",
+		"/C/Users/jdauer/AppData/Local/Temp/fz3temp-2/style.css",
+		"/C/Users/jdauer/Desktop/Magento Test Site",
+		"/C/Users/jdauer/AppData/Local/Temp/fz3temp-2/overrides.css",
+		"/C/Users/jdauer/AppData/Local/Temp/fz3temp-2/admin-theme.css",
+		"/C/Users/jdauer/AppData/Local/Temp/fz3temp-2/admin.css",
+		"/C/Users/jdauer/AppData/Local/Temp/fz3temp-2/style 2.css",
+		"/C/Users/jdauer/AppData/Local/Temp/fz3temp-2/.htaccess 2",
+		"/C/Users/jdauer/AppData/Local/Temp/fz3temp-2/index.php",
+		"/C/Users/jdauer/AppData/Local/Temp/fz3temp-1/main.css",
+		"/C/Users/jdauer/Downloads/AdminCustomerThreadsController.php",
+		"/C/Users/jdauer/Desktop/Files/simple etail/main-style-backup.css",
+		"/C/Users/jdauer/AppData/Local/Temp/fz3temp-1/style.css",
+		"/C/xampp/htdocs/blue-maven/wp-config.php",
+		"/C/Users/jdauer/AppData/Local/Temp/fz3temp-1/global.css",
+		"/C/Users/jdauer/Desktop/Files/Reliable/product-list-2.tpl",
+		"/C/Users/jdauer/AppData/Local/Temp/fz3temp-1/blockcms.tpl",
+		"/C/xampp/htdocs/blue-maven/wp-settings.php",
+		"/C/Users/jdauer/Desktop/downloader.php",
+		"/C/xampp/htdocs/blue-maven/wp-content/themes/twentytwelve/style.css",
+		"/C/Users/jdauer/Desktop/header 2.phtml",
+		"/C/Users/jdauer/Desktop/styles.css",
+		"/C/Users/jdauer/Desktop/nav-v2.png",
+		"/C/Users/jdauer/Desktop/main-style.css",
+		"/C/Users/jdauer/AppData/Local/Temp/fz3temp-2/bio-page.php",
+		"/C/Users/jdauer/AppData/Local/Temp/fz3temp-1/styles.css",
+		"/C/Users/jdauer/AppData/Local/Temp/fz3temp-1/header 2.phtml",
+		"/C/Users/jdauer/AppData/Local/Temp/fz3temp-1/header.phtml",
+		"/C/Program Files (x86)/FileZilla FTP Client/docs/fzdefaults.xml.example",
+		"/C/xampp/apps/wordpress/htdocs/wp-content/themes/silver-maple/header-home.php",
+		"/C/Users/jdauer/Desktop/header-bio.php",
+		"/C/Users/jdauer/AppData/Local/Temp/fz3temp-2/home-page.php",
+		"/C/Users/jdauer/Desktop/mymonee_TriNguyen_04012014_fixes/stylesheets/main.css",
+		"/C/Users/jdauer/Desktop/mymonee_TriNguyen_04012014_fixes/TriNguyen_Alerts_index.html",
+		"/C/Users/jdauer/Desktop/Files/simple etail/main.css",
+		"/R/simple-etail/main-style.css",
+		"/C/Users/jdauer/Desktop/mymonee_TriNguyen_04012014/stylesheets/main.css",
+		"/C/Users/jdauer/Desktop/mymonee_TriNguyen_04012014/TriNguyen_prizes.html",
+		"/C/Users/jdauer/Desktop/mymonee_TriNguyen_04012014/TriNguyen_Alerts_index.html",
+		"/C/Users/jdauer/Desktop/mymonee_TriNguyen_04012014/TriNguyen_index.html",
+		"/C/Users/jdauer/Desktop/mymonee_TriNguyen_04012014/TriNguyen_transactions.html",
+		"/C/Users/jdauer/AppData/Local/Temp/Rar$DIa0.115/info.txt",
+		"/C/Users/jdauer/AppData/Local/Temp/fz3temp-1/blockcmsinfo.tpl",
+		"/C/Users/jdauer/AppData/Local/Temp/fz3temp-1/class_index.php",
+		"/C/Users/jdauer/AppData/Local/Temp/fz3temp-1/header.tpl",
+		"/C/Users/jdauer/AppData/Local/Temp/Rar$DIa0.841/info.txt",
+		"/C/Users/jdauer/AppData/Local/Temp/fz3temp-1/readme_override.txt",
+		"/C/Users/jdauer/Desktop/jackman.com/wp-config.php",
+		"/C/Users/jdauer/Downloads/text-upload-products.csv",
+		"/C/Users/jdauer/AppData/Local/Temp/fz3temp-1/blockmyaccount.tpl",
+		"/C/Users/jdauer/Downloads/text-upload-products.slk",
+		"/C/Users/jdauer/Downloads/text-upload-products.xlsx",
+		"/C/Users/jdauer/Downloads/AdminOrdersController.php",
+		"/C/Users/jdauer/AppData/Local/Temp/fz3temp-1/.htaccess",
+		"/C/Users/jdauer/Downloads/template_48529_2hZ5211OZmQN2s82vn83/theme/themes/theme922/404.tpl",
+		"/C/Users/jdauer/Downloads/template_48529_2hZ5211OZmQN2s82vn83/info.txt",
+		"/C/Users/jdauer/Desktop/simple etail/main.css",
+		"/C/Users/jdauer/AppData/Local/Temp/fz3temp-1/wp-config.php",
+		"/C/Users/jdauer/AppData/Local/Temp/fz3temp-1/page-features.php",
+		"/C/Users/jdauer/AppData/Local/Temp/fz3temp-1/functions.php",
+		"/C/Users/jdauer/AppData/Local/Temp/fz3temp-1/custom-function.php",
+		"/C/Users/jdauer/AppData/Local/Temp/fz3temp-1/sidebar-init.php",
+		"/C/Users/jdauer/AppData/Local/Temp/fz3temp-1/page-packages.php",
+		"/C/xampp/htdocs/blue-maven/wp-content/themes/blue-maven-law/functions.php",
+		"/C/Users/jdauer/AppData/Local/Temp/fz3temp-1/wrapper-footer.php",
+		"/C/Users/jdauer/AppData/Local/Temp/fz3temp-1/footer.php",
+		"/C/Users/jdauer/AppData/Local/Temp/fz3temp-1/sidebar.php",
+		"/C/Users/jdauer/Desktop/feature-sidebar.php",
+		"/C/Users/jdauer/AppData/Local/Temp/fz3temp-1/functions 2.php",
+		"/C/Users/jdauer/Desktop/page-features.html",
+		"/C/Users/jdauer/AppData/Local/Temp/fz3temp-1/page.php",
+		"/C/Users/jdauer/AppData/Local/Temp/fz3temp-1/checkout.php",
+		"/C/Users/jdauer/AppData/Local/Temp/fz3temp-1/category.php",
+		"/C/Users/jdauer/Downloads/global.css",
+		"/C/Users/jdauer/Desktop/checkout.php",
+		"/C/Users/jdauer/AppData/Local/Temp/fz3temp-1/email-order.php",
+		"/C/Users/jdauer/AppData/Local/Temp/fz3temp-1/email-shipped.php",
+		"/C/Users/jdauer/AppData/Local/Temp/fz3temp-1/Flow.php",
+		"/C/Users/jdauer/AppData/Local/Temp/fz3temp-1/product.php",
+		"/C/Users/jdauer/AppData/Local/Temp/fz3temp-1/events.php",
+		"/C/Users/jdauer/AppData/Local/Temp/fz3temp-1/search.php",
+		"/C/Users/jdauer/AppData/Local/Temp/Rar$DIa0.929/bootstrap.css",
+		"/C/Users/jdauer/Downloads/admin-theme.css",
+		"/C/Users/jdauer/Desktop/Prestashop login info",
+		"/C/Users/jdauer/Desktop/prestashop-templates.txt",
+		"/C/Users/jdauer/Desktop/Files/resources/example.html",
+		"/C/Users/jdauer/Desktop/simple etail/page-products.php",
+		"/C/xampp/htdocs/blue-maven/wp-content/themes/blue-maven-law/homepage.php",
+		"/C/xampp/htdocs/blue-maven/wp-content/themes/blue-maven-law/archive.php",
+		"/C/Users/jdauer/Desktop/possible vangogh templates.txt",
+		"/C/Users/jdauer/Desktop/main.css",
+		"/C/Users/jdauer/Desktop/possible vangogh templates",
+		"/C/Users/jdauer/Desktop/Files/4hands2/4Hands-Database-info.txt",
+		"/C/Users/jdauer/AppData/Local/Temp/fz3temp-1/comments.php",
+		"/T/jackmansite/css/main.css",
+		"/R/CMS Default/layout-4.0/auctori_4.0_tags.txt",
+		"/T/jackmansite/sass/_global.scss",
+		"/T/jackmansite/sass/_content.scss",
+		"/T/jackmansite/sass/main.scss",
+		"/T/jackmansite/config.rb",
+		"/T/muellersite/config.rb",
+		"/T/mymonee/stylesheets/main.css",
+		"/T/mymonee/transactions.html",
+		"/T/mymonee/prizes.html",
+		"/C/Users/jdauer/Desktop/trivia.txt",
+		"/T/mymonee/prizes-history.html",
+		"/T/mymonee/pre-login.html",
+		"/C/Users/jdauer/Desktop/gary meyers/DH Logo.jpg",
+		"/C/Users/jdauer/Desktop/4Hands-Database-info.txt",
+		"/T/jackmansite/sass/_auctori-fixes.scss",
+		"/T/jackmansite/sass/_menu.scss",
+		"/T/jackmansite/sass/_modules.scss",
+		"/T/jackmansite/sass/_header.scss",
+		"/T/jackmansite/sass/_footer.scss",
+		"/T/jackmansite/sass/_forms.scss",
+		"/T/jackmansite/sass/_functions.scss",
+		"/T/jackmansite/sass/_slider.scss",
+		"/T/mymonee/register.html",
+		"/T/mymonee/moneewise-score.html",
+		"/T/mymonee/monee-center.html",
+		"/T/mymonee/manage-account.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"display_errors",
+			"top-background",
+			"top-background:after",
+			"top-background",
+			"top-background:after",
+			"myriad pro",
+			".top-background",
+			".site-bran",
+			".top-background",
+			".slide .slide",
+			".read-more",
+			".slide-text p",
+			".slide-text .read",
+			"#home-right",
+			"textwidget",
+			"#site-navigation .menu-menu-1-container ul li",
+			"\"video ",
+			"\"video\"",
+			"entry-header-interior:after",
+			".footer-text",
+			"widget-2",
+			"widget-2:after",
+			"@media ",
+			"information",
+			"input",
+			"type=\"text",
+			"input",
+			"-webkit",
+			"nav4",
+			"a {",
+			"secure",
+			".slide-text",
+			"header-interior:after",
+			"main-bio #main",
+			"media",
+			":after",
+			"content:",
+			"#$!#@$@",
+			"\n\n\n\n\n\n#$!#@$@",
+			"\n\n\n\n\n\n",
+			"\n\n\n#$!#@$@",
+			"\n\n\n",
+			"#$!",
+			"\n\n\n\n\n",
+			"\n\n",
+			"\n",
+			".pre-login-four",
+			"h3",
+			"max-width: 7",
+			"footer[role=\"contentinfo\"] .logo-copyright",
+			"play-now-btn",
+			"instant-slot-image",
+			",",
+			"cf885e",
+			"df9569",
+			"sidebar",
+			"widgets_",
+			"sidebar",
+			"email",
+			"media",
+			"#sidebar .widget",
+			"testimonials",
+			"--!>",
+			"<!--",
+			"#footer",
+			"#four",
+			"#fourth",
+			"#third",
+			"#second",
+			"#first",
+			"fourth",
+			"#first",
+			"search",
+			"menu",
+			"main",
+			"header-image-name",
+			"zone2",
+			"productpicture",
+			"input[type=\"search\"]",
+			".trans-search",
+			"search",
+			".points-number span.pointsNum:before",
+			"pointsNum:before",
+			"block-wrappter",
+			"Prizes",
+			"h2.section",
+			"pagin",
+			"pagination",
+			"end",
+			"footer",
+			"end",
+			"media ",
+			"no",
+			"end",
+			"media",
+			"overflow",
+			"overflow:",
+			":before",
+			".middle-content-trans {",
+			".middle-content-trans",
+			"transactions",
+			"50%",
+			"product",
+			"productinfo",
+			"min-height",
+			"::before",
+			"::after",
+			"::before",
+			"::after",
+			"::before",
+			"::after",
+			"::before",
+			"::after",
+			"::before",
+			"list",
+			"article",
+			"div",
+			"article",
+			"main>",
+			"<main",
+			"main>",
+			"<main",
+			"main",
+			"::before",
+			"::after",
+			"::",
+			":::after",
+			":::before"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"video-list-item ",
+			"\"video-list-item\"",
+			"",
+			" ",
+			"",
+			".....",
+			"",
+			" ",
+			"",
+			"#$!#@$@",
+			"",
+			"\",\"",
+			"597079",
+			"83A7B4",
+			"",
+			":before",
+			":after",
+			":before",
+			":after",
+			":before",
+			":after",
+			":before",
+			":after",
+			"::after",
+			"::before",
+			"::after",
+			"&gt;</code>",
+			"<code>&lt;",
+			"December",
+			"October",
+			"September",
+			"August",
+			"url('../images/",
+			"url(\"../images/",
+			"url(\"../images",
+			"#sidebar",
+			"$output_categories",
+			"http://silvermaplepetcenter.unidevtech.com",
+			"unidevte_silvermaple",
+			"silvermapledb",
+			"http://bluemavenlaw.unidevtech.com",
+			"unidevte_blue-maven",
+			"http://bluemavenlaw.unidevtech.com",
+			"http://bluemavenlaw.unidevtech.com/",
+			"unidevte_bluemaven",
+			"bluemaven",
+			"$dark-green",
+			"$blue"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
